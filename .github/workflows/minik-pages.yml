@@ -1,4 +1,3 @@
-.github/workflows/minik-pages.yml
 name: MINIK online stellen
 
 on:
